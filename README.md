@@ -1,2 +1,1 @@
-# Internship_project_Mutational_signatures_analysis
-Internship project: Decomposition of somatic mutation profiles into mutational signatures
+# Internship project: Decomposition of somatic mutation profiles into mutational signatures
