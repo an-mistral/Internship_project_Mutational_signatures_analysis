@@ -8,7 +8,7 @@ A principled route to refined stratification is mutational signature analysis, w
 The project sought to reproduce the mutational signature-based sub-typing of AMPAC from  [Zhuravleva et al. (2025)](https://gut.bmj.com/content/74/5/804) using publicly available data, and explore whether similar biological subgroups can be identified from scratch.
 
 ## Data Description 
-**Source:** The primary data for analysis were obtained from the electronic supplementary material to the article by [Zhuravleva et al. (2025)](https://gut.bmj.com/content/74/5/804). The table **gutjnl-2024-333368supp011.xlsx** (journal online supplement) was used. The workbook was imported as provided; no manual edits were introduced. During import, Excel auto-formatting artefacts were programmatically reversed. 
+**Source:** The primary data for analysis were obtained from the electronic supplementary material to the article by [Zhuravleva et al. (2025)](https://gut.bmj.com/content/74/5/804). The table **gutjnl-2024-333368supp011.xlsx** (journal online supplement) was used. The workbook was imported as provided; no manual edits were introduced. 
 
 **Data used from the workbook:**
 - **Somatic SNVs (MAF-like table):** used to build the cleaned mutation table exported as `Code_Outputs/maf_from_excel_sheet4.tsv`. *(excel sheet 4)*
